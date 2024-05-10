@@ -1,9 +1,5 @@
 <h1 align="center">Hallo ich bin 756e6e616d6564</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=756e6e616d6564" alt="756e6e616d6564" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
