@@ -119,14 +119,3 @@
 </div>
 
 ###
-
-<h3 align="center">🔥   My Stats   🔥:</h3>
-
-###
-
-<div class="border py-2 graph-before-activity-overview">
-
-  <div class="js-calendar-graph mx-md-2 mx-3 d-flex flex-column flex-items-end flex-xl-items-center overflow-hidden pt-1 is-graph-loading graph-canvas ContributionCalendar height-full text-center" data-graph-url="/users/756e6e616d6564/contributions" data-url="/756e6e616d6564" data-from="2023-06-04 00:00:00 -0400" data-to="2024-06-09 23:59:59 -0400" data-org>…</div>flex
-</div
-
-###
